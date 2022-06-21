@@ -1,1 +1,2 @@
 tao file moi
+day la chinh sua bang commit sau
